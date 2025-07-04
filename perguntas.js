@@ -1,22 +1,44 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Português',
+    'O que é susbstantivo?',
+    'Palavra que nomeia seres, coisas, lugares, etc.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Quais são os continentes do mundo?',
+    'América, Europa, Ásia, África, Oceania e Antártica'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'História',
+    'Quem descobriu o Brasil?',
+    'Pedro Álvares Cabral'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Ciências',
+    'Quais são os estados físicos da água?',
+    'Sólido, líquido e gasoso'
+) 
+criaCartao(
+    'Matemática',
+    'Qual a fórmula da área do quadrado?',
+    'Lado x Lado'
+)
+
+criaCartao(
+    'Matemática',
+    'Qual a fórmula da área do círculo?',
+    'Pi x raio ao quadrado'
+)
+
+criaCartao(
+    'Ciências',
+    'O que é a gravidade?',
+    'Força que atrai os corpos para o centro da Terra'
+)
+    criaCartao(
+    'Geografia',
+    'O que é latitude?',
+    'Distância de um ponto na Terra em relação à linha do equador'
 ) 
